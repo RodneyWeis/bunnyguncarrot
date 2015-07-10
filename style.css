@@ -1,0 +1,51 @@
+/* Style.css */
+
+body {
+	font-family: Arial, sans-serif;
+}
+
+section#computer_picks {
+	margin-top: 5em;
+}
+
+li {
+	display: inline-block;
+	float: left;
+	border: 5px solid #888;
+	margin-left: 5em;
+}
+
+li.choice {
+	background-color: #88aaff;
+}
+
+li.cpu {
+	border: 5px solid #ff0000;
+	background-color: #ff88aa;
+}
+
+li.choice:hover {
+	position: relative;
+	top: -2px;
+	border: 5px solid #00ff00;
+}
+
+li img {
+	max-width:  180px;
+	max-height:  180px;
+	padding: 10px;
+}
+
+.clear {
+	clear: both;
+}
+
+header {
+	margin-left: 5em;
+}
+
+footer {
+	position: absolute;
+	bottom: 0px;
+	margin-left: 5em;
+}
