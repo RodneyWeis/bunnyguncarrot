@@ -104,7 +104,7 @@ function compare( player, cpu ) {
 			soundEffectSrc = "audio/laser.ogg";
 		} else {
 			comparison = 0;
-			soundEffectSrc = "audio/tie.ogg";
+			soundEffectSrc = "audio/jingles_STEEL03.ogg";
 		}
 	} else if (player == 'Gun') {
 		if (cpu == 'Bunny') {
@@ -115,7 +115,7 @@ function compare( player, cpu ) {
 			soundEffectSrc = "audio/rumble3.ogg";
 		} else {
 			comparison = 0;
-			soundEffectSrc = "audio/tie.ogg";
+			soundEffectSrc = "audio/jingles_STEEL03.ogg";
 		}
 	} else {
 		if (cpu == 'Gun') {
@@ -126,7 +126,7 @@ function compare( player, cpu ) {
 			soundEffectSrc = "audio/Carrot.ogg";
 		} else {
 			comparison = 0;
-			soundEffectSrc = "audio/tie.ogg";
+			soundEffectSrc = "audio/jingles_STEEL03.ogg";
 		}
 	}
 	playResultMusic(soundEffectSrc);
