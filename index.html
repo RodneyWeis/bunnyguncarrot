@@ -4,53 +4,86 @@
 	<meta charset="utf-8" />
 	<title>Bunny Gun Carrot</title>
 	<link rel="stylesheet" href="style.css" />
+	<link href='http://fonts.googleapis.com/css?family=Luckiest+Guy' rel='stylesheet' type='text/css' />
 	<script src="js/jquery-1.11.2.min.js"></script>
 	<script src="js/bgc.js"></script>
 </head>
 <body>
 	<header>
 		<h1>Bunny Gun Carrot</h1>
-
 	</header>
 
-	<section id="main">
+	<section id="intro">
+		<ul class="top">
+			<li><img src="images/Bunny.png" /></li>
+			<li><br />&gt;<br />Eats</li>
+			<li><img src="images/Carrot.png" /></li>
+		</ul>
+		<ul class="top">
+			<li><img src="images/Carrot.png" /></li>
+			<li><br />&gt;<br />Plugs</li>
+			<li><img src="images/Gun.png" /></li>
+		</ul>
+		<ul class="top">
+			<li><img src="images/Gun.png" /></li>
+			<li><br />&gt;<br />Shoots</li>
+			<li><img src="images/Bunny.png" /></li>
+		</ul>
+		<br class="clear" />
+		<br />
+
+		<button id="start">Start Game</button>
+
+	</section>  <!-- /#intro -->
+
+	<section id="main_game">
+
+		<audio src="audio/Mission Plausible.ogg"></audio>
+
+		<section id="score">
+			<h2>Player: <span id="player" class="score"></span> Computer: <span id="cpu" class="score"></span></h2>
+		</section>  <!-- /#score -->
 
 		<section id="player_picks">
 
 			<ul>
-				<li class="choice" id="bunny"><img src="images/Bunny.png" /></li>
-				<li class="choice" id="gun"><img src="images/Gun.png" /></li>
-				<li class="choice" id="carrot"><img src="images/Carrot.png" /></li>
+				<li class="player-choice" id="bunny"><img src="images/Bunny.png" /></li>
+				<li class="player-choice" id="gun"><img src="images/Gun.png" /></li>
+				<li class="player-choice" id="carrot"><img src="images/Carrot.png" /></li>
+				<section id="computer_picks">
+					<li class="cpu-choice" id="cpubunny"><img src="images/Bunny.png" /></li>
+					<li class="cpu-choice" id="cpugun"><img src="images/Gun.png" /></li>
+					<li class="cpu-choice" id="cpucarrot"><img src="images/Carrot.png" /></li>
+				</section>  <!-- /#computer_picks -->
 			</ul>
 			<br class="clear" />
 
 		</section> <!-- /#player_picks -->
 
-		<section id="computer_picks">
-
-			<ul>
-				<li class="cpu" id="cpubunny"><img src="images/Bunny.png" /></li>
-				<li class="cpu" id="cpugun"><img src="images/Gun.png" /></li>
-				<li class="cpu" id="cpucarrot"><img src="images/Carrot.png" /></li>
-			</ul>
-			<br class="clear" />
-
-		</section> <!-- /#computer_picks -->
 
 		<section id="results">
+			<p></p>
 		</section>  <!-- /#results -->
 
-		<section id="score">
-		</section>  <!-- /#score -->
+		<section id="again">
+			<button id="continue">Continue</button><br />
+			<button id="quit">Quit Game</button>
+		</section>
 
 
+	</section> <!-- /#main_game -->
 
-	</section> <!-- /#main -->
+	<section id="outro">
 
+		<h2></h2>
+		<h1>Thank you for playing</h1>
 
-	<footer>
-		<p>&copy; 2015 PirateGrrlE and Tactix47</p>
-		<p><a href="http://codetheweb.ca">CodeTheWeb.ca</a></p>
-	</footer>
+		<footer>
+			<p>&copy; 2015 PirateGrrlE and Tactix47</p>
+			<p><a href="http://codetheweb.ca">CodeTheWeb.ca</a></p>
+		</footer>
+
+	</section>  <!-- /#outro -->
+
 </body>
 </html>

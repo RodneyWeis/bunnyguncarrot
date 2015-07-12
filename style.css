@@ -2,29 +2,57 @@
 
 body {
 	font-family: Arial, sans-serif;
+	text-align:  center;
+	min-width: 1024px;
+	max-width: 1080px;
+	display: block;
+	margin: 0 auto;
+	background-color:  #dee;
+
+}
+
+#intro, #main_game, #outro, #again {
+	display: none;
 }
 
 section#computer_picks {
-	margin-top: 5em;
+	display: none;
+}
+
+#results p {
+	font-size: 150%;
+	color: #33cc33;
+}
+
+#quit {
+	margin-top: 2em;
+}
+
+button {
+	padding: 0.3em 1.2em;
+	font-size: 125%;
+}
+
+ul.top {
+	display: inline-block;
+	margin: 0 auto;
 }
 
 li {
 	display: inline-block;
 	float: left;
 	border: 5px solid #888;
-	margin-left: 5em;
-}
-
-li.choice {
+	margin: 0 1em;
 	background-color: #88aaff;
 }
 
-li.cpu {
+
+li.cpu-choice {
 	border: 5px solid #ff0000;
 	background-color: #ff88aa;
 }
 
-li.choice:hover {
+li.player-choice:hover {
 	position: relative;
 	top: -2px;
 	border: 5px solid #00ff00;
@@ -40,12 +68,20 @@ li img {
 	clear: both;
 }
 
-header {
-	margin-left: 5em;
+body>header, ul.top, #score, #results p {
+	font-family: 'Luckiest Guy', cursive;
+	font-size: 200%;
+	color: red;
 }
 
-footer {
-	position: absolute;
-	bottom: 0px;
-	margin-left: 5em;
+ul.top li {
+	min-width: 180px;
+	min-height: 180px;
+	padding: 10px;
+}
+
+ul.top li:nth-of-type(2) {
+	position: relative;
+	background-color:  #88ffaa;
+	top: 0.4em;
 }
