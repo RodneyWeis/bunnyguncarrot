@@ -6,21 +6,29 @@ function readyFn(jQuery) {
 	setupLoop();
 }; // /function readyFn
 
+function reloadGame() {
+	location.reload();
+}
+
 function playIntroMusic() {
 	console.log("Playing:  Retro Beat");
 	audio = new Audio();
 	audio.setAttribute('src', 'audio/Retro Beat.ogg');
 	audio.load();
 	audio.play();
+	audio.setAttribute('loop', 'loop');
 }
 
 function setupLoop() {
 	console.log("display intro");
 	$('#intro').css('display', 'block');
+	console.log("hide outro");
+	$('#outro').css('display', 'none');
 	initializeScores();
 	$('#start').on('click', displayGame);
 	$('#continue').on('click', displayGame);
 	$('#quit').on('click', endGame);
+	$('#play_again').on('click', reloadGame);
 }
 
 function initializeScores() {
@@ -93,21 +101,21 @@ function compare( player, cpu ) {
 			soundEffectSrc = "audio/Carrot.ogg";
 		} else if (cpu == 'Gun') {
 			comparison = -1;
-			soundEffectSrc = "audio/laser6.ogg";
+			soundEffectSrc = "audio/laser.ogg";
 		} else {
 			comparison = 0;
-			soundEffectSrc = "audio/jingles_STEEL03.ogg";
+			soundEffectSrc = "audio/tie.ogg";
 		}
 	} else if (player == 'Gun') {
 		if (cpu == 'Bunny') {
 			comparison = 1;
-			soundEffectSrc = "audio/laser6.ogg";
+			soundEffectSrc = "audio/laser.ogg";
 		} else if (cpu == 'Carrot') {
 			comparison = -1;
 			soundEffectSrc = "audio/rumble3.ogg";
 		} else {
 			comparison = 0;
-			soundEffectSrc = "audio/jingles_STEEL03.ogg";
+			soundEffectSrc = "audio/tie.ogg";
 		}
 	} else {
 		if (cpu == 'Gun') {
@@ -118,7 +126,7 @@ function compare( player, cpu ) {
 			soundEffectSrc = "audio/Carrot.ogg";
 		} else {
 			comparison = 0;
-			soundEffectSrc = "audio/jingles_STEEL03.ogg";
+			soundEffectSrc = "audio/tie.ogg";
 		}
 	}
 	playResultMusic(soundEffectSrc);
@@ -178,6 +186,7 @@ function playGameMusic() {
 	audio.setAttribute('src', 'audio/Mission Plausible.ogg');
 	audio.load();
 	audio.play();
+	audio.setAttribute('loop', 'loop');
 }
 
 function renderScores() {

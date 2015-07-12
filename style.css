@@ -31,6 +31,7 @@ section#computer_picks {
 button {
 	padding: 0.3em 1.2em;
 	font-size: 125%;
+	border-radius: 15px;
 }
 
 ul.top {
@@ -68,9 +69,27 @@ li img {
 	clear: both;
 }
 
-body>header, ul.top, #score, #results p {
+body>header, ul.top, #score, #results p, #outro h2, #outro h1, button {
 	font-family: 'Luckiest Guy', cursive;
 	font-size: 200%;
+	color: red;
+}
+
+body>header {
+	font-size: 250%;
+	letter-spacing: 0.08em;
+	text-shadow: 8px 8px 8px #660000;
+}
+
+header h1 {
+	-webkit-text-stroke: 1px #ffccff;
+}
+
+button , #outro h2 {
+	color: green;
+}
+
+button#quit {
 	color: red;
 }
 
