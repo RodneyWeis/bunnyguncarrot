@@ -1,0 +1,587 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"set",
+				"setupLoop"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"cpu",
+				"cpu"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"max",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2496,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 1387,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/bgc.js",
+			"settings":
+			{
+				"buffer_size": 5610,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: test"
+			],
+			[
+				"snippet",
+				"Snippet: Prototype"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Rod/Documents/Coursera/HTMLCSSJavaScript/01_HTML_&_CSS/1-04_handling_forms/04_handling_forms/1-4-1_html_form_basics/01_html_example_form_textarea.html",
+		"/C/Users/Rod/Dropbox/FamilyGameDev/RodProjects/BunnyGunCarrot/bunnyguncarrot.v.0.2/js/test.html",
+		"/C/Users/Rod/AppData/Roaming/Sublime Text 2/Packages/User/html5.sublime-snippet",
+		"/C/Users/Rod/AppData/Roaming/Sublime Text 2/Packages/User/test.sublime-snippet",
+		"/C/Users/Rod/Dropbox/Magic/resources.txt",
+		"/C/Users/Rod/Dropbox/Magic/20130811meeting.txt",
+		"/C/Users/Rod/Dropbox/Magic/style.css",
+		"/C/Users/Rod/Dropbox/Magic/index.html",
+		"/C/Users/Rod/Dropbox/ComputerWork/20160103Log.txt",
+		"/C/Users/Rod/Documents/GameMaker/Errata.txt",
+		"/C/Users/Rod/Dropbox/eBooks/OnlineCourses.txt",
+		"/C/Users/Rod/Dropbox/eBooks/ManningBooks.txt",
+		"/C/Users/Rod/Dropbox/eBooks/PacktpubVideos.txt",
+		"/C/Users/Rod/Dropbox/Personal/References.txt",
+		"/C/Users/Rod/Dropbox/Cube/Graphics/20151231Scheme.txt",
+		"/C/Users/Rod/Dropbox/Cube/BLD3x3/bld3x3.txt",
+		"/C/Users/Rod/Dropbox/Cube/Pyraminx/PyraminxAlgs.txt",
+		"/C/Users/Rod/Dropbox/Cube/CollinBurnsWR.txt",
+		"/C/Users/Rod/Documents/20150917SteamRitchie.txt",
+		"/C/Users/Rod/Dropbox/FamilyGameDev/RodProjects/Controller.gmx/controller.scripts.txt",
+		"/C/Users/Rod/Documents/GameMaker/Projects/Taipan.gmx/20150827roadmap.txt",
+		"/C/Users/Rod/Dropbox/Programming/taipan/taipan.txt",
+		"/C/Users/Rod/Pictures/Wallpaper/Mockups/style.css",
+		"/C/Users/Rod/Dropbox/zessti/logos/zessti colors.txt",
+		"/C/Users/Rod/Pictures/Wallpaper/Aircraft/F22a3view.png",
+		"/C/Users/Rod/Dropbox/zessti/index.html",
+		"/C/Users/Rod/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Rod/Dropbox/Music/Dubstep.txt",
+		"/C/Users/Rod/Documents/Programming/Python2/mixedtype.py",
+		"/C/Users/Rod/Documents/BunnyGunCarrot/style.css",
+		"/C/Users/Rod/Dropbox/zessti/style.css",
+		"/C/xampp/htdocs/webapps/Chapter1/index.html",
+		"/C/Users/Rod/Documents/Programming/ThreeJS/Shapes.js",
+		"/C/Users/Rod/Downloads/h5g/h5g_1_files/basicPage.html",
+		"/C/Users/Rod/Pictures/Wallpaper/Mockups/index.html",
+		"/C/Users/Rod/Documents/Programming/index.html",
+		"/C/Users/Rod/Documents/codequiz.js",
+		"/C/Users/Rod/Documents/Programming/ThreeJS/ChromeFixes.js",
+		"/C/Users/Rod/Documents/Programming/ThreeJS/Three.js",
+		"/C/Users/Rod/Documents/Programming/Python2/holaworld.py",
+		"/C/Users/Rod/Documents/Programming/js.js",
+		"/C/Users/Rod/Dropbox/gammondgat.txt",
+		"/C/Users/Rod/Documents/Minecraft/Minecraft Stonecreek Stronghold",
+		"/C/Users/Rod/Dropbox/Personal/benevity.txt",
+		"/C/Users/Rod/Dropbox/FamilyGameDev/RodProjects/LudumDare33/ld33.txt",
+		"/C/Users/Rod/Documents/Shipping.txt",
+		"/C/Users/Rod/Documents/LindsayBuroker.txt",
+		"/C/Users/Rod/Dropbox/FamilyGameDev/cargame.project.gmx",
+		"/C/Users/Rod/Dropbox/Programming/bunnyguncarrot/audio/Carrot.xmp",
+		"/C/Users/Rod/Documents/BunnyGunCarrot/index.html",
+		"/C/Users/Rod/Documents/BunnyGunCarrot/js/bgc.js",
+		"/C/Users/Rod/Dropbox/Programming/bunnyguncarrot/test.txt",
+		"/C/Users/Rod/Documents/Programming/ThreeJS/testanimation.js",
+		"/C/Users/Rod/Downloads/ravenchess/_ctypes.pyd",
+		"/C/Users/Rod/Downloads/ravenchess/chess.exe",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/js/main.js",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/css/main.css",
+		"/C/Users/Rod/Documents/CanJS/code/canjs/public/concepts/concepts-test.js",
+		"/C/Users/Rod/Documents/CanJS/code/canjs/public/index-basic.js",
+		"/C/Users/Rod/Documents/CanJS/code/canjs/public/index-basic.html",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/canjsplayground/index.html",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/index.html",
+		"/C/Users/Rod/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Rod/Dropbox/Programming/Euler/euler1.js",
+		"/C/Users/Rod/Dropbox/Programming/Euler/euler1.html",
+		"/C/Users/Rod/Dropbox/Programming/html5/RPG/rpghilo.js",
+		"/C/Users/Rod/Dropbox/Programming/html5/RPG/styles.css",
+		"/C/Users/Rod/Dropbox/Programming/html5/RPG/rpghilo.html",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/javascript/game.js",
+		"/C/Users/Rod/Dropbox/Programming/LemonadeStand/index.html",
+		"/C/Users/Rod/Dropbox/ColumbiaCollege/MailMerge/mailmerge.txt",
+		"/C/Users/Rod/Dropbox/Personal/MinimizeStressAnxiety.txt",
+		"/C/Users/Rod/Dropbox/Magic/sims.txt",
+		"/C/Users/Rod/Dropbox/Personal/20150225Cubicle.txt",
+		"/C/Users/Rod/Dropbox/Personal/DrSeussQuotes.txt",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/todo/todos.js",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/todo/todos.html",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/fiddle/todo.html",
+		"/C/xampp/htdocs/todocanjsfiddle/todo.html",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/fiddle/todo.css",
+		"/C/Users/Rod/Dropbox/ComputerWork/atVenu/fiddle/todo.js",
+		"/C/Users/Rod/Dropbox/Rodney/atVenu/index.html",
+		"/C/Users/Rod/Dropbox/Minecraft/MinecraftChallengeIdeas.txt",
+		"/C/Users/Rod/Documents/masterpiece.txt",
+		"/C/Users/Rod/Downloads/-OWL14 (complete 187632, words only).txt",
+		"/C/Users/Rod/Dropbox/Personal/Riana/translation.txt",
+		"/C/Users/Rod/Dropbox/Personal/Scrabble/CSW12.txt",
+		"/C/Users/Rod/Dropbox/Web/CubeTheWeb/index.html",
+		"/C/Users/Rod/Downloads/MAPSSCommsMtg-agenda(Jan14)",
+		"/C/Users/Rod/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/javascript/common.js",
+		"/C/Users/Rod/AppData/Roaming/Sublime Text 2/Packages/Emmet/test.html",
+		"/C/Python/TDD/functional_test.py",
+		"/C/Users/Rod/Dropbox/AMI/CoilTubing/20141220WaitTimes.txt",
+		"/C/Users/Rod/Dropbox/ColumbiaCollege/Gmail/gmailbody.php",
+		"/C/Users/Rod/Dropbox/ColumbiaCollege/Gmail/gmail.php",
+		"/C/Users/Rod/Documents/GameMaker/Projects/RPGElsje.gmx/RPGElsje.txt",
+		"/C/Users/Rod/Documents/GameMaker/Projects/RPGTutorial1.gmx/RPGTutorial1Notes.txt",
+		"/C/Users/Rod/Dropbox/Personal/EightWays.txt",
+		"/C/Users/Rod/Dropbox/Personal/Invictus.txt",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/tournamentsrightcolumn.php",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/tournamentsleftcolumn.php",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/news.php",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/mainleftcolumn.php",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/mainrightcolumn.php",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/tournaments.php",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/html/index.html",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/html/interactive.html",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/html/style.css",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/notes/pythonmysql.md",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/json/sample/player.200.json",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/json/sample/game.2.json",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/json/gameInfo.express.json",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/EdmontonScrabble/archives.php",
+		"/C/Users/Rod/Documents/Minecraft/whitelist.json",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/json/sample/game.1.json",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/json/sample/player.100.json",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/json/gameInfo.standard.json",
+		"/C/Users/Rod/Documents/Minecraft/RodPrivate/server.properties",
+		"/C/Users/Rod/Dropbox/ComputerWork/Clients/TimelessTravel/style.css",
+		"/C/Users/Rod/Documents/RianaCLPNA.txt",
+		"/C/Users/Rod/Documents/Minecraft/server.properties",
+		"/C/Users/Rod/Downloads/blackbird-master/blackbird-master/cgi/index.cgi"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"python",
+			"4",
+			"patter",
+			"stack",
+			"6",
+			"python",
+			"wifi",
+			"Unity",
+			"unity",
+			"minec",
+			"library",
+			"wifi",
+			"stack",
+			"unity",
+			"itch",
+			"edu",
+			"pira",
+			"game",
+			"pirat",
+			"minecra",
+			"ea",
+			"steam",
+			"5em",
+			"center",
+			";\n",
+			"ps3",
+			"playstation",
+			"cra",
+			"minecraft",
+			"host",
+			"cpu",
+			"github",
+			"cra",
+			"elsje",
+			"wordpress",
+			"mine",
+			"live",
+			"face",
+			"cra",
+			"scrabble",
+			"soccer",
+			"});\n",
+			"consol",
+			"center",
+			"prompt",
+			"isCountOutDone",
+			"changepr",
+			"addno",
+			";\n",
+			"\"></",
+			"spec",
+			";\n",
+			"left",
+			";\n",
+			"cra",
+			"wifi",
+			"rodweis@gmail.com",
+			"wifi",
+			"first",
+			"riana",
+			"sin",
+			"wifi",
+			"elsje",
+			"wifi",
+			"nfo",
+			"mine",
+			"face",
+			"gog",
+			"cbe",
+			"riana",
+			"scrabble",
+			"parks",
+			"elsje",
+			"unity",
+			"wordpress",
+			"wifi",
+			"2014",
+			"wifi",
+			"CBE",
+			"adobe",
+			"gog",
+			"scrabble",
+			"wordpress",
+			"elsje",
+			"zessti",
+			"lobster",
+			"rod137820795WX",
+			"godaddy",
+			"scrabble",
+			"ubuntu",
+			"adobe",
+			"minecraft"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 2496,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								581,
+								581
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1380.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"settings":
+					{
+						"buffer_size": 1387,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "js/bgc.js",
+					"settings":
+					{
+						"buffer_size": 5610,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.624333781965,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 136.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Rod/Dropbox/ComputerWork/Clients/StephenWeis/StephenWeis.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 114.0,
+	"status_bar_visible": true
+}
